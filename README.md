@@ -59,3 +59,5 @@
 29. Leave your ego at the door. Rockstars and primadonnas don't make good engineers. If you are doing anything of importance then friction and criticism is inevitable, but try to avoid getting into unnecessary flame wars. De-escalate when possible. Face to face meetings can sometimes diffuse extremely online arguments. Try to be humble and considerate of other people's time and effort. If you find yourself in a heated argument, consider whether your opponent is really trying to make you stop working on the project, and re-focus your priorities away from time-wasters.
 
 30. Most software is ephemeral. Aspire to make software which is something more than throwaway consumer garbage. Software should not be fast fashion.
+
+31. Every abstraction or indirection decreases readability, and therefore maintainability. Keep abstractions minimal and use them only when reusability is a higher priority than readability. A codebase with a lot of abstractions will be difficult for potential contributors to understand, and therefore will constrain how successful your project can be.
