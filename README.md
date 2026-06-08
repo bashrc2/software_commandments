@@ -61,3 +61,5 @@
 30. Most software is ephemeral. Aspire to make software which is something more than throwaway consumer garbage. Software should not be fast fashion.
 
 31. Every abstraction or indirection decreases readability, and therefore maintainability. Keep abstractions minimal and use them only when reusability is a higher priority than readability. A codebase with a lot of abstractions will be difficult for potential contributors to understand, and therefore will constrain how successful your project can be.
+
+32. In an era of bloatware production "less is more". A software project should aim to do one thing well, and not try to be a kitchen sink of all things to all people. If you are boasting about the number of lines of code that you are adding per unit of time then you're doing it wrong, and should re-evaluate.
